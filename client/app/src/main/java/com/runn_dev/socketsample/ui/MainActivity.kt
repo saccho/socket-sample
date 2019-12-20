@@ -1,7 +1,8 @@
-package com.runn_dev.socketsample
+package com.runn_dev.socketsample.ui
 
 import android.os.Bundle
 import androidx.appcompat.app.AppCompatActivity
+import com.runn_dev.socketsample.R
 
 class MainActivity : AppCompatActivity() {
 
